@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 64 64"
+     role="img">
+  <title>Invanka light-isotype</title>
+  <desc>Stylized light-isotype with the letter "I".</desc>
+
+  <!-- light-isotype -->
+  <g id="light-isotype" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 8 v48"
+          stroke="#1EC9B1"
+          stroke-width="10"/>
+    <path d="M40 8 v48"
+          stroke="#0B1F3A"
+          stroke-width="10"/>
+  </g>
+</svg>
